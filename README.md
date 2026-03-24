@@ -29,7 +29,7 @@ Built with [Telethon](https://github.com/LonamiWebs/Telethon).
 **Clone the repository**
 
 ```bash
-git clone https://github.com/AirdropUmbrellaX/tg-auto-leave.git
+git clone https://github.com/airdropumbrella/tg-auto-leave.git
 cd tg-auto-leave
 ```
 
